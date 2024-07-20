@@ -1,0 +1,14 @@
+.main{
+    text-align: center;
+}
+.team{
+    float: left;
+    width: 33.33%;
+}
+.clear{
+    clear: left;
+}
+p{
+    color: gray;
+}
+
